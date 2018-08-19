@@ -2,7 +2,7 @@ package com.simplilearn.training.Airthmatic_Add;
 
 
 import org.junit.*;
-
+//import junit.framework.Test.*;
 import com.simplilearn.training.Airthmatic_Add.App;
 
 public class AppTest {
