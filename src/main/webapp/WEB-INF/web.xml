@@ -12,6 +12,6 @@
   </servlet>
   <servlet-mapping>
   	<servlet-name>Add</servlet-name>
-  	<url-pattern>/src/main/resources/Add</url-pattern>
+  	<url-pattern>/Add</url-pattern>
   </servlet-mapping>
 </web-app>
