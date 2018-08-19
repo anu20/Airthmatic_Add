@@ -1,7 +1,10 @@
 package com.simplilearn.training.Airthmatic_Add;
 
 
-import org.junit.*;
+import static org.junit.Assert.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 //import junit.framework.Test.*;
 import com.simplilearn.training.Airthmatic_Add.App;
 
